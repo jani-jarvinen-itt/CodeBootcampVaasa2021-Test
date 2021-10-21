@@ -1,1 +1,3 @@
 AAAAAAAAAAAAAAAAAAAA
+
+This is a new line in File1.txt
