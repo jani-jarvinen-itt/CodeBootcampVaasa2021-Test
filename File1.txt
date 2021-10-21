@@ -1,3 +1,5 @@
 AAAAAAAAAAAAAAAAAAAA
 
 This is a new line in File1.txt
+
+This is a third line in File1.txt
