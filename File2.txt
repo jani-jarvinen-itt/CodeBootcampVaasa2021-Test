@@ -3,3 +3,8 @@ BBBBBBBBBBBBBBBBBBBBB
 Second line of text.
 
 Change outside Visual Studio Code.
+
+
+************
+This is a change from Visual Studio Code.
+************
